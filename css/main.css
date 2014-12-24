@@ -1,0 +1,8 @@
+
+
+  .transparent {
+  	background: rgba(0, 0, 0, 0.6);
+  	min-height: 10px;
+  	font-family: Gotham;
+  	font-size: 20px;
+}
